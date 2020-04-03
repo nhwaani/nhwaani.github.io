@@ -12,12 +12,30 @@
     
     
     <item>
+      <title>Write Code That Is Easy to Delete</title>
+      <link>https://nhwaani.github.io/posts/2020/04/write-code-that-is-easy-to-delete/</link>
+      <pubDate>Sat, 04 Apr 2020 00:14:21 +0400</pubDate>
+      
+      <guid>https://nhwaani.github.io/posts/2020/04/write-code-that-is-easy-to-delete/</guid>
+      <description>“Every line of code is written without reason, maintained out of weakness, and deleted by chance” Jean-Paul Sartre’s Programming in ANSI C.
+ Every line of code written comes at a price: maintenance. To avoid paying for a lot of code, we build reusable software. The problem with code re-use is that it gets in the way of changing your mind later on.
+The more consumers of an API you have, the more code you must rewrite to introduce changes. Similarly, the more you rely on an third-party api, the more you suffer when it changes. Managing how the code fits together, or which parts depend on others, is a significant problem in large scale systems, and it gets harder as your project grows older.
+ My point today is that, if we wish to count lines of code, we should not regard them as “lines produced” but as “lines spent” EWD 1036
+ If we see ‘lines of code’ as ‘lines spent’, then when we delete lines of code, we are lowering the cost of maintenance. Instead of building re-usable software, we should try to build disposable software.
+I don’t need to tell you that deleting code is more fun than writing it.</description>
+    </item>
+    
+    <item>
       <title>Critical Ingredient to Become a Genius</title>
       <link>https://nhwaani.github.io/posts/2020/04/critical-ingredient-to-become-a-genius/</link>
       <pubDate>Fri, 03 Apr 2020 16:15:18 +0400</pubDate>
       
       <guid>https://nhwaani.github.io/posts/2020/04/critical-ingredient-to-become-a-genius/</guid>
-      <description>hello</description>
+      <description>Everyone knows that to do great work you need both natural ability and determination. But there’s a third ingredient that’s not as well understood: an obsessive interest in a particular topic
+To explain this point I need to burn my reputation with some group of people, and I’m going to choose bus ticket collectors. There are people who collect old bus tickets. Like many collectors, they have an obsessive interest in the minutiae of what they collect.
+They can keep track of distinctions between different types of bus tickets that would be hard for the rest of us to remember. Because we don’t care enough. What’s the point of spending so much time thinking about old bus tickets?
+Which leads us to the second feature of this kind of obsession: there is no point. A bus ticket collector’s love is disinterested. They’re not doing it to impress us or to make themselves rich, but for its own sake
+When you look at the lives of people who’ve done great work, you see a consistent pattern. They often begin with a bus ticket collector’s obsessive interest in something that would have seemed pointless to most of their contemporaries. One of the most striking features of Darwin’s book about his voyage on the Beagle is the sheer depth of his interest in natural history.</description>
     </item>
     
     <item>
