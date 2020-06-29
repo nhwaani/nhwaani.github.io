@@ -5,8 +5,44 @@
         <description>Recent content in Posts on Nadeem Hilal</description>
         <generator>Hugo -- gohugo.io</generator>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sat, 04 Apr 2020 00:14:21 +0400</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2020 00:48:21 +0400</lastBuildDate>
         <atom:link href="https://nhwaani.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Review the Pragmatic Programmer</title>
+            <link>https://nhwaani.github.io/posts/2020/06/review-the-pragmatic-programmer/</link>
+            <pubDate>Tue, 30 Jun 2020 00:48:21 +0400</pubDate>
+            
+            <guid>https://nhwaani.github.io/posts/2020/06/review-the-pragmatic-programmer/</guid>
+            <description>Today i decided to add my review about one of the best books among the software engineers, its a must to have in your bookshelf. The book was written by Dave Thomas and Andy Hunt , and the motto of the book was
+YOUR JOURNEY TO MASTERY. This book starts with simple yet profound message
+ ITS YOUR LIFE
+ It reminds us of our own power in our code-base, jobs , careers. Why this book is different then other books is that it understands what it means to be a programmer. As a relative newcommer, its easy to be overwhelmed not by the act of programming but the process of becoming a programmer.
+There is an entire mindset shift that needs to happen &amp;ndash; c changed in the habbits, behaviours, and expectations. The book says that the process of becoming the better programmer does not just happen because
+ you know how to code ; It must be met with intention and delibrate practice
+ And believe me this book teach it best.
+Just a quick reminder, i will be reviewing thier 20th Edition as it the updated edition that came out recently &amp;hellip;</description>
+            <content type="html"><![CDATA[<p>Today i decided to add my review about one of the best books among the software engineers, its a must to have in your bookshelf.
+The book was written by <strong>Dave Thomas and Andy Hunt</strong> , and the motto of the book was</p>
+<h2 id="_your-journey-to-mastery_"><strong><em>YOUR JOURNEY TO MASTERY</em></strong>.</h2>
+<p>This book starts with simple yet profound message</p>
+<blockquote>
+<p>ITS YOUR LIFE</p>
+</blockquote>
+<p>It reminds us of our own <strong>power</strong> in our <strong>code-base</strong>, <strong>jobs</strong> , <strong>careers</strong>.
+Why this book is different then other books is that it understands what it means to be a programmer.
+As a relative newcommer, its easy to be overwhelmed not by the act of programming but the process of
+becoming a programmer.</p>
+<p>There is an entire mindset shift that needs to happen &ndash; c changed in the habbits, behaviours, and
+expectations.
+The book says that the process of becoming the better programmer does not just happen because</p>
+<blockquote>
+<p>you know how to code ; It must be met with <strong>intention</strong> and <strong>delibrate practice</strong></p>
+</blockquote>
+<p>And believe me this book teach it best.</p>
+<p>Just a quick reminder, i will be reviewing thier <strong>20th Edition</strong> as it the updated edition that came out recently &hellip;</p>
+]]></content>
+        </item>
         
         <item>
             <title>Write Code That Is Easy to Delete</title>
