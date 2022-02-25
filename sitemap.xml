@@ -1,78 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://nhwaani.github.io/posts/2020/06/review-the-pragmatic-programmer/</loc>
-    <lastmod>2020-06-30T01:17:51+04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T02:11:09+04:00</lastmod>
+  </url><url>
     <loc>https://nhwaani.github.io/posts/2020/04/write-code-that-is-easy-to-delete/</loc>
     <lastmod>2020-06-30T01:17:51+04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nhwaani.github.io/posts/2020/04/critical-ingredient-to-become-a-genius/</loc>
     <lastmod>2020-06-30T00:22:56+04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nhwaani.github.io/tags/book-reviews/</loc>
-    <lastmod>2020-06-30T01:17:51+04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T02:11:09+04:00</lastmod>
+  </url><url>
     <loc>https://nhwaani.github.io/tags/hardwork/</loc>
-    <lastmod>2020-06-30T01:17:51+04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T02:11:09+04:00</lastmod>
+  </url><url>
     <loc>https://nhwaani.github.io/tags/me/</loc>
-    <lastmod>2020-06-30T01:17:51+04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T02:11:09+04:00</lastmod>
+  </url><url>
+    <loc>https://nhwaani.github.io/</loc>
+    <lastmod>2020-06-30T02:11:09+04:00</lastmod>
+  </url><url>
     <loc>https://nhwaani.github.io/tags/personal-development/</loc>
-    <lastmod>2020-06-30T01:17:51+04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T02:11:09+04:00</lastmod>
+  </url><url>
     <loc>https://nhwaani.github.io/posts/</loc>
-    <lastmod>2020-06-30T01:17:51+04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T02:11:09+04:00</lastmod>
+  </url><url>
     <loc>https://nhwaani.github.io/tags/programming/</loc>
-    <lastmod>2020-06-30T01:17:51+04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T02:11:09+04:00</lastmod>
+  </url><url>
     <loc>https://nhwaani.github.io/tags/software-engineering/</loc>
-    <lastmod>2020-06-30T01:17:51+04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T02:11:09+04:00</lastmod>
+  </url><url>
     <loc>https://nhwaani.github.io/tags/</loc>
-    <lastmod>2020-06-30T01:17:51+04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-30T02:11:09+04:00</lastmod>
+  </url><url>
     <loc>https://nhwaani.github.io/about/</loc>
     <lastmod>2020-04-03T23:51:33+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nhwaani.github.io/</loc>
+  </url><url>
+    <loc>https://nhwaani.github.io/tags/biography/</loc>
     <lastmod>2020-04-03T23:51:33+04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://nhwaani.github.io/tags/personal/</loc>
+    <lastmod>2020-04-03T23:51:33+04:00</lastmod>
+  </url><url>
     <loc>https://nhwaani.github.io/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nhwaani.github.io/categories/</loc>
   </url>
-  
 </urlset>

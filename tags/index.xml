@@ -6,11 +6,7 @@
     <description>Recent content in Tags on Nadeem Hilal</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 30 Jun 2020 00:48:21 +0400</lastBuildDate>
-    
-	<atom:link href="https://nhwaani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 30 Jun 2020 00:48:21 +0400</lastBuildDate><atom:link href="https://nhwaani.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>book-reviews</title>
       <link>https://nhwaani.github.io/tags/book-reviews/</link>
@@ -62,6 +58,24 @@
       <pubDate>Tue, 30 Jun 2020 00:48:21 +0400</pubDate>
       
       <guid>https://nhwaani.github.io/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biography</title>
+      <link>https://nhwaani.github.io/tags/biography/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nhwaani.github.io/tags/biography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://nhwaani.github.io/tags/personal/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nhwaani.github.io/tags/personal/</guid>
       <description></description>
     </item>
     
