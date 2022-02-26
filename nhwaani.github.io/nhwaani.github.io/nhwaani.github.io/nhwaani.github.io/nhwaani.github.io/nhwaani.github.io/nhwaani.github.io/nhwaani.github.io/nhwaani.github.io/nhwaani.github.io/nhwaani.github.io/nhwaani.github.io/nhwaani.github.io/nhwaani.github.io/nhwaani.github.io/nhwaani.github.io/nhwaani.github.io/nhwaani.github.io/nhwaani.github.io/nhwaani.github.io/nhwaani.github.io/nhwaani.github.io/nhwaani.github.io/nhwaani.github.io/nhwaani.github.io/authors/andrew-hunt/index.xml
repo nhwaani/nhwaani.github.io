@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Hunt on Nadeem Hilal</title>
+    <link>https://nhwaani.github.io/authors/andrew-hunt/</link>
+    <description>Recent content in Andrew Hunt on Nadeem Hilal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 26 Feb 2022 00:27:56 +0400</lastBuildDate><atom:link href="https://nhwaani.github.io/authors/andrew-hunt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading List</title>
+      <link>https://nhwaani.github.io/archives/2022/02/reading-list/</link>
+      <pubDate>Sat, 26 Feb 2022 00:27:56 +0400</pubDate>
+      
+      <guid>https://nhwaani.github.io/archives/2022/02/reading-list/</guid>
+      <description>Here is a collection of books that I have read and would recommend 📚 Books:   Designing Data Intensive Applications by Martin Kleppmann. &amp;ldquo;The most practical book so far on distributed systems. It covers everything related large scale concept, together with real-world examples.&amp;rdquo;
+  The Beginning of infinity by David Deutsch
+ Naval : &amp;quot; Deutsch dramatically expands on that in The Beginning of Infinity. The wide-ranging nature that he covers is incredible.
+He covers epistemology—which is the theory of knowledge—quantum mechanics, multiverse theory, infinity, mathematics, the reach of what is knowable and what is not knowable, universal explanations, the theory of computation, what is beauty, what systems of politics work better, how to raise your children, and more. These are all-encompassing, long-range philosophical ideas.
+   The Pragmatic Programmer by David Thomas, Andrew Hunt
+  Database Internals by Alex petrov
+  Grokking Algorithms
+  Psychology of money
+  Think Again
+  </description>
+    </item>
+    
+  </channel>
+</rss>
